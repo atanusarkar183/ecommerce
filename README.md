@@ -1,2 +1,3 @@
-# ecommerce
-Ecommerce project
+# My Projects
+Ecommerce Project
+Insurance Project
